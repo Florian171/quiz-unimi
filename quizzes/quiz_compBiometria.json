@@ -1,0 +1,2599 @@
+{
+  "quizzes": [
+    {
+      "id": "quiz1",
+      "title": "Domande Generali - Parte 1",
+      "questions": [
+        {
+          "id": "quiz1_q1",
+          "text": "Sistema afis raggiunge quanti matches per secondo?",
+          "choices": [
+            {
+              "text": "1 milione al secondo"
+            },
+            {
+              "text": "10 milioni"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            },
+            {
+              "text": "100 milioni"
+            }
+          ],
+          "correctIndexes": [
+            3
+          ]
+        },
+        {
+          "id": "quiz1_q2",
+          "text": "Com’è l’operatore del filtro di gabor per filtraggio delle impronte",
+          "choices": [
+            {
+              "text": "Coseno"
+            },
+            {
+              "text": "Esponenziale decrescente"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            },
+            {
+              "text": "Coseno ed esponenziale decrescente"
+            }
+          ],
+          "correctIndexes": [
+            3
+          ]
+        },
+        {
+          "id": "quiz1_q3",
+          "text": "Come si calcola la distanza di Hamming se hai 2 iridi A e B con maschere mA e mB?",
+          "choices": [
+            {
+              "text": "A xor mA/xor"
+            },
+            {
+              "text": "A * B"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            2
+          ]
+        },
+        {
+          "id": "quiz1_q4",
+          "text": "Caratteristiche lenti asferiche",
+          "choices": [
+            {
+              "text": "Meno costose"
+            },
+            {
+              "text": "Riducono aberrazione sferica"
+            },
+            {
+              "text": "Riducono aberrazione cromatica"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            1
+          ]
+        },
+        {
+          "id": "quiz1_q5",
+          "text": "Cosa si intende per enrollment failure?",
+          "choices": [
+            {
+              "text": "Processo enrollment fallito per vari motivi"
+            },
+            {
+              "text": "Template presenti non usabili per vari motivi"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q6",
+          "text": "Chi ha fatto Eigenfaces?",
+          "choices": [
+            {
+              "text": "Daugman"
+            },
+            {
+              "text": "Turk & Pentland"
+            },
+            {
+              "text": "Jain"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            1
+          ]
+        },
+        {
+          "id": "quiz1_q7",
+          "text": "Filtro laplaciano, l’operatore che derivata fa?",
+          "choices": [
+            {
+              "text": "Derivata prima"
+            },
+            {
+              "text": "Derivata seconda"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            1
+          ]
+        },
+        {
+          "id": "quiz1_q8",
+          "text": "Qual è il sistema biometrico più diffuso?",
+          "choices": [
+            {
+              "text": "Impronte"
+            },
+            {
+              "text": "Faccia"
+            },
+            {
+              "text": "Iride"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q9",
+          "text": "Quale sistema biometrico ha la più alta unicità e permanenza?",
+          "choices": [
+            {
+              "text": "Impronte"
+            },
+            {
+              "text": "Iride"
+            },
+            {
+              "text": "Vene"
+            },
+            {
+              "text": "Retina"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            1
+          ]
+        },
+        {
+          "id": "quiz1_q10",
+          "text": "Se un sistema biometrico ha FMR 1 su 10000 e FNMR 1 su 1000, e ci sono 100 tentativi genuini e 10000 impostori, quanti sono gli errori totali?",
+          "choices": [
+            {
+              "text": "1"
+            },
+            {
+              "text": "10"
+            },
+            {
+              "text": "100"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q11",
+          "text": "Se un sistema biometrico ha FMR 1 su 10000 e FNMR 1 su 1000, e ci sono 100 tentativi genuini e 10000 impostori, quanti falsi match ci sono?",
+          "choices": [
+            {
+              "text": "1"
+            },
+            {
+              "text": "10"
+            },
+            {
+              "text": "100"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q12",
+          "text": "Cosa è la distanza interpupillare?",
+          "choices": [
+            {
+              "text": "Distanza tra centro pupille"
+            },
+            {
+              "text": "Distanza tra centro iridi"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q13",
+          "text": "Quale sistema biometrico non è influenzato dall’invecchiamento?",
+          "choices": [
+            {
+              "text": "Faccia"
+            },
+            {
+              "text": "Iride"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            1
+          ]
+        },
+        {
+          "id": "quiz1_q14",
+          "text": "La firma biometrica è:",
+          "choices": [
+            {
+              "text": "Comportamentale"
+            },
+            {
+              "text": "Fisiologica"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q15",
+          "text": "Quale sensore è più sensibile alla luce ambientale?",
+          "choices": [
+            {
+              "text": "Ottico"
+            },
+            {
+              "text": "Capacitivo"
+            },
+            {
+              "text": "Ultrasuoni"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q16",
+          "text": "Quale sistema biometrico usa la trasformata di Hough?",
+          "choices": [
+            {
+              "text": "Iride"
+            },
+            {
+              "text": "Impronte"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q17",
+          "text": "Qual è il principale vantaggio delle impronte latenti?",
+          "choices": [
+            {
+              "text": "Facilità di acquisizione"
+            },
+            {
+              "text": "Non richiede cooperazione"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            1
+          ]
+        },
+        {
+          "id": "quiz1_q18",
+          "text": "Cosa indica l’EER (Equal Error Rate)?",
+          "choices": [
+            {
+              "text": "Punto in cui FMR = FNMR"
+            },
+            {
+              "text": "Punto di massima accuratezza"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q19",
+          "text": "Quale caratteristica non è richiesta per un tratto biometrico?",
+          "choices": [
+            {
+              "text": "Universalità"
+            },
+            {
+              "text": "Unicità"
+            },
+            {
+              "text": "Permanenza"
+            },
+            {
+              "text": "Colore"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            3
+          ]
+        },
+        {
+          "id": "quiz1_q20",
+          "text": "Quale sistema biometrico è meno invasivo?",
+          "choices": [
+            {
+              "text": "Iride"
+            },
+            {
+              "text": "Faccia"
+            },
+            {
+              "text": "Retina"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            1
+          ]
+        },
+        {
+          "id": "quiz1_q21",
+          "text": "Cosa è il template in un sistema biometrico?",
+          "choices": [
+            {
+              "text": "Immagine acquisita"
+            },
+            {
+              "text": "Rappresentazione matematica delle caratteristiche"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            1
+          ]
+        },
+        {
+          "id": "quiz1_q22",
+          "text": "Quale sistema biometrico richiede contatto fisico?",
+          "choices": [
+            {
+              "text": "Impronte"
+            },
+            {
+              "text": "Iride"
+            },
+            {
+              "text": "Faccia"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q23",
+          "text": "Cosa misura il FAR (False Accept Rate)?",
+          "choices": [
+            {
+              "text": "Probabilità che un utente non autorizzato venga accettato"
+            },
+            {
+              "text": "Probabilità che un utente autorizzato venga rifiutato"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q24",
+          "text": "Cosa misura il FRR (False Reject Rate)?",
+          "choices": [
+            {
+              "text": "Probabilità che un utente non autorizzato venga accettato"
+            },
+            {
+              "text": "Probabilità che un utente autorizzato venga rifiutato"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            1
+          ]
+        },
+        {
+          "id": "quiz1_q25",
+          "text": "Quale tecnica è usata per il riconoscimento delle vene?",
+          "choices": [
+            {
+              "text": "Luce visibile"
+            },
+            {
+              "text": "Infrarosso vicino (NIR)"
+            },
+            {
+              "text": "Ultrasuoni"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            1
+          ]
+        },
+        {
+          "id": "quiz1_q26",
+          "text": "Qual è lo svantaggio principale del riconoscimento facciale 2D?",
+          "choices": [
+            {
+              "text": "Sensibilità alla posa e all'illuminazione"
+            },
+            {
+              "text": "Costo elevato"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q27",
+          "text": "Quale algoritmo è usato per il riconoscimento dell'iride?",
+          "choices": [
+            {
+              "text": "Daugman"
+            },
+            {
+              "text": "Eigenfaces"
+            },
+            {
+              "text": "Minutiae matching"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q28",
+          "text": "Cosa è una minuzia?",
+          "choices": [
+            {
+              "text": "Punto caratteristico dell'impronta digitale"
+            },
+            {
+              "text": "Punto caratteristico dell'iride"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q29",
+          "text": "Quale sistema biometrico è basato sulla geometria della mano?",
+          "choices": [
+            {
+              "text": "Hand geometry"
+            },
+            {
+              "text": "Palmprint"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz1_q30",
+          "text": "Qual è il vantaggio principale della biometria multimodale?",
+          "choices": [
+            {
+              "text": "Maggiore accuratezza e sicurezza"
+            },
+            {
+              "text": "Minore costo"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quiz2",
+      "title": "Domande Generali - Parte 2",
+      "questions": [
+        {
+          "id": "quiz2_q1",
+          "text": "Cosa si intende per liveness detection?",
+          "choices": [
+            {
+              "text": "Rilevamento della vitalità del soggetto"
+            },
+            {
+              "text": "Rilevamento della presenza del soggetto"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q2",
+          "text": "Quale sistema biometrico è più vulnerabile al spoofing con foto?",
+          "choices": [
+            {
+              "text": "Faccia 2D"
+            },
+            {
+              "text": "Impronte"
+            },
+            {
+              "text": "Iride"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q3",
+          "text": "Cosa è la ROC curve?",
+          "choices": [
+            {
+              "text": "Receiver Operating Characteristic"
+            },
+            {
+              "text": "Rate of Change"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q4",
+          "text": "Quale metrica si usa per confrontare due sistemi biometrici?",
+          "choices": [
+            {
+              "text": "EER"
+            },
+            {
+              "text": "FMR"
+            },
+            {
+              "text": "FNMR"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q5",
+          "text": "Cosa è un sistema biometrico di verifica?",
+          "choices": [
+            {
+              "text": "Confronto 1:1"
+            },
+            {
+              "text": "Confronto 1:N"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q6",
+          "text": "Cosa è un sistema biometrico di identificazione?",
+          "choices": [
+            {
+              "text": "Confronto 1:N"
+            },
+            {
+              "text": "Confronto 1:1"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q7",
+          "text": "Quale sensore per impronte digitali usa un campo elettrico?",
+          "choices": [
+            {
+              "text": "Capacitivo"
+            },
+            {
+              "text": "Ottico"
+            },
+            {
+              "text": "Termico"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q8",
+          "text": "Quale sensore per impronte digitali usa la riflessione totale interna frustrata?",
+          "choices": [
+            {
+              "text": "Ottico"
+            },
+            {
+              "text": "Capacitivo"
+            },
+            {
+              "text": "Ultrasuoni"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q9",
+          "text": "Quale sistema biometrico usa la mappa di profondità?",
+          "choices": [
+            {
+              "text": "Faccia 3D"
+            },
+            {
+              "text": "Faccia 2D"
+            },
+            {
+              "text": "Iride"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q10",
+          "text": "Cosa è il soft biometrics?",
+          "choices": [
+            {
+              "text": "Caratteristiche fisiche non distintive (es. altezza, colore occhi)"
+            },
+            {
+              "text": "Biometria comportamentale"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q11",
+          "text": "Qual è il problema principale dell'iride?",
+          "choices": [
+            {
+              "text": "Difficoltà di acquisizione (cooperazione, illuminazione)"
+            },
+            {
+              "text": "Bassa unicità"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q12",
+          "text": "Cosa è la cancellable biometrics?",
+          "choices": [
+            {
+              "text": "Tecnica per revocare e riemettere template biometrici"
+            },
+            {
+              "text": "Cancellazione dei dati biometrici dal database"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q13",
+          "text": "Quale standard definisce i formati di interscambio biometrico?",
+          "choices": [
+            {
+              "text": "ISO/IEC 19794"
+            },
+            {
+              "text": "ISO/IEC 27001"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q14",
+          "text": "Cosa è il matching score?",
+          "choices": [
+            {
+              "text": "Punteggio di similarità tra due template"
+            },
+            {
+              "text": "Punteggio di qualità dell'immagine"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q15",
+          "text": "Quale sistema biometrico è usato negli aeroporti per il controllo passaporti?",
+          "choices": [
+            {
+              "text": "Faccia"
+            },
+            {
+              "text": "Impronte"
+            },
+            {
+              "text": "Iride"
+            },
+            {
+              "text": "Tutti i precedenti"
+            }
+          ],
+          "correctIndexes": [
+            3
+          ]
+        },
+        {
+          "id": "quiz2_q16",
+          "text": "Cosa è il FAR (False Acceptance Rate)?",
+          "choices": [
+            {
+              "text": "Percentuale di accessi non autorizzati accettati erroneamente"
+            },
+            {
+              "text": "Percentuale di accessi autorizzati rifiutati erroneamente"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q17",
+          "text": "Cosa è il FRR (False Rejection Rate)?",
+          "choices": [
+            {
+              "text": "Percentuale di accessi autorizzati rifiutati erroneamente"
+            },
+            {
+              "text": "Percentuale di accessi non autorizzati accettati erroneamente"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q18",
+          "text": "Qual è la relazione tra FAR e FRR?",
+          "choices": [
+            {
+              "text": "Inversamente proporzionali"
+            },
+            {
+              "text": "Direttamente proporzionali"
+            },
+            {
+              "text": "Indipendenti"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q19",
+          "text": "Cosa significa DET?",
+          "choices": [
+            {
+              "text": "Detection Error Trade-off"
+            },
+            {
+              "text": "Decision Error Trade-off"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q20",
+          "text": "Quale sistema biometrico ha la più alta accettabilità utente?",
+          "choices": [
+            {
+              "text": "Impronte"
+            },
+            {
+              "text": "Faccia"
+            },
+            {
+              "text": "Retina"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q21",
+          "text": "Quale sistema biometrico è considerato più sicuro contro le frodi?",
+          "choices": [
+            {
+              "text": "Iride"
+            },
+            {
+              "text": "Faccia 2D"
+            },
+            {
+              "text": "Voce"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q22",
+          "text": "Cosa è la biometria comportamentale?",
+          "choices": [
+            {
+              "text": "Basata su come una persona fa qualcosa (es. camminata, firma)"
+            },
+            {
+              "text": "Basata su caratteristiche fisiche"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q23",
+          "text": "Quale è un esempio di biometria comportamentale?",
+          "choices": [
+            {
+              "text": "Dinamica della digitazione (keystroke)"
+            },
+            {
+              "text": "Impronte digitali"
+            },
+            {
+              "text": "Iride"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q24",
+          "text": "Cosa è il template protection?",
+          "choices": [
+            {
+              "text": "Protezione dei dati biometrici memorizzati"
+            },
+            {
+              "text": "Protezione del sensore"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q25",
+          "text": "Quale tecnica è usata per il template protection?",
+          "choices": [
+            {
+              "text": "Fuzzy vault"
+            },
+            {
+              "text": "Crittografia standard"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q26",
+          "text": "Cosa è l'attacco di hill-climbing?",
+          "choices": [
+            {
+              "text": "Attacco iterativo per ricostruire il template"
+            },
+            {
+              "text": "Attacco fisico al sensore"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q27",
+          "text": "Quale sistema biometrico è usato per l'identificazione criminale?",
+          "choices": [
+            {
+              "text": "AFIS (Impronte)"
+            },
+            {
+              "text": "Iride"
+            },
+            {
+              "text": "Voce"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q28",
+          "text": "Cosa è il NIST?",
+          "choices": [
+            {
+              "text": "National Institute of Standards and Technology"
+            },
+            {
+              "text": "National Institute of Security Technology"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q29",
+          "text": "Quale database è usato per testare algoritmi biometrici?",
+          "choices": [
+            {
+              "text": "FVC (Fingerprint Verification Competition)"
+            },
+            {
+              "text": "ImageNet"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz2_q30",
+          "text": "Cosa è il GAR (Genuine Accept Rate)?",
+          "choices": [
+            {
+              "text": "1 - FRR"
+            },
+            {
+              "text": "1 - FAR"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quiz3",
+      "title": "Domande Generali - Parte 3",
+      "questions": [
+        {
+          "id": "quiz3_q1",
+          "text": "Il metodo di Viola-Jones è usato per:",
+          "choices": [
+            {
+              "text": "Rilevamento facciale"
+            },
+            {
+              "text": "Riconoscimento dell'iride"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q2",
+          "text": "Cosa sono le feature di Haar?",
+          "choices": [
+            {
+              "text": "Caratteristiche usate da Viola-Jones"
+            },
+            {
+              "text": "Caratteristiche usate per le impronte"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q3",
+          "text": "Quale algoritmo usa AdaBoost?",
+          "choices": [
+            {
+              "text": "Viola-Jones"
+            },
+            {
+              "text": "Eigenfaces"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q4",
+          "text": "Cosa è LBP (Local Binary Patterns)?",
+          "choices": [
+            {
+              "text": "Descrittore di texture usato per il riconoscimento facciale"
+            },
+            {
+              "text": "Algoritmo per le impronte"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q5",
+          "text": "Quale rete neurale è spesso usata per il riconoscimento facciale?",
+          "choices": [
+            {
+              "text": "CNN (Convolutional Neural Network)"
+            },
+            {
+              "text": "RNN (Recurrent Neural Network)"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q6",
+          "text": "Cosa è il FaceNet?",
+          "choices": [
+            {
+              "text": "Modello di deep learning per il riconoscimento facciale"
+            },
+            {
+              "text": "Database di facce"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q7",
+          "text": "Cosa è la triplet loss?",
+          "choices": [
+            {
+              "text": "Funzione di perdita usata in FaceNet"
+            },
+            {
+              "text": "Errore di acquisizione"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q8",
+          "text": "Quale sensore è usato per l'acquisizione 3D?",
+          "choices": [
+            {
+              "text": "Lidar"
+            },
+            {
+              "text": "Camera RGB"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q9",
+          "text": "Cosa è il riconoscimento dell'andatura (gait recognition)?",
+          "choices": [
+            {
+              "text": "Biometria comportamentale basata sul modo di camminare"
+            },
+            {
+              "text": "Riconoscimento delle scarpe"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q10",
+          "text": "Quale è un vantaggio del riconoscimento dell'andatura?",
+          "choices": [
+            {
+              "text": "Riconoscimento a distanza"
+            },
+            {
+              "text": "Alta accuratezza"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q11",
+          "text": "Cosa è il riconoscimento dello speaker?",
+          "choices": [
+            {
+              "text": "Riconoscimento di chi sta parlando"
+            },
+            {
+              "text": "Riconoscimento di cosa viene detto"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q12",
+          "text": "Quale caratteristica è usata nel riconoscimento dello speaker?",
+          "choices": [
+            {
+              "text": "MFCC (Mel-Frequency Cepstral Coefficients)"
+            },
+            {
+              "text": "LBP"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q13",
+          "text": "Cosa è il DNA profiling?",
+          "choices": [
+            {
+              "text": "Identificazione basata sul DNA"
+            },
+            {
+              "text": "Identificazione basata sulle impronte"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q14",
+          "text": "Quale è uno svantaggio del DNA profiling?",
+          "choices": [
+            {
+              "text": "Tempo di elaborazione lungo"
+            },
+            {
+              "text": "Bassa accuratezza"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q15",
+          "text": "Cosa è la biometria vascolare?",
+          "choices": [
+            {
+              "text": "Riconoscimento basato sulle vene"
+            },
+            {
+              "text": "Riconoscimento basato sul cuore"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q16",
+          "text": "Dove si trovano le vene usate per il riconoscimento?",
+          "choices": [
+            {
+              "text": "Dito o palmo della mano"
+            },
+            {
+              "text": "Collo"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q17",
+          "text": "Quale luce è usata per il riconoscimento delle vene?",
+          "choices": [
+            {
+              "text": "Infrarosso vicino (NIR)"
+            },
+            {
+              "text": "Ultravioletto"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q18",
+          "text": "Cosa è il riconoscimento dell'orecchio?",
+          "choices": [
+            {
+              "text": "Identificazione basata sulla forma dell'orecchio"
+            },
+            {
+              "text": "Identificazione basata sull'udito"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q19",
+          "text": "Quale sistema biometrico è usato per il controllo accessi in aziende?",
+          "choices": [
+            {
+              "text": "Impronte o badge + pin"
+            },
+            {
+              "text": "DNA"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q20",
+          "text": "Cosa è il multimodal fusion?",
+          "choices": [
+            {
+              "text": "Combinazione di più modalità biometriche"
+            },
+            {
+              "text": "Fusione nucleare"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q21",
+          "text": "A quale livello può avvenire la fusione?",
+          "choices": [
+            {
+              "text": "Sensore, feature, score, decisione"
+            },
+            {
+              "text": "Solo livello sensore"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q22",
+          "text": "Quale livello di fusione è più comune?",
+          "choices": [
+            {
+              "text": "Score level"
+            },
+            {
+              "text": "Sensor level"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q23",
+          "text": "Cosa è la normalizzazione degli score?",
+          "choices": [
+            {
+              "text": "Portare gli score in un range comune (es. 0-1)"
+            },
+            {
+              "text": "Cancellare gli score"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q24",
+          "text": "Quale tecnica di normalizzazione è usata?",
+          "choices": [
+            {
+              "text": "Min-max"
+            },
+            {
+              "text": "Z-score"
+            },
+            {
+              "text": "Tutti i precedenti"
+            }
+          ],
+          "correctIndexes": [
+            2
+          ]
+        },
+        {
+          "id": "quiz3_q25",
+          "text": "Cosa è il privacy by design?",
+          "choices": [
+            {
+              "text": "Inclusione della privacy nella progettazione del sistema"
+            },
+            {
+              "text": "Privacy solo legale"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q26",
+          "text": "Cosa è il GDPR?",
+          "choices": [
+            {
+              "text": "General Data Protection Regulation"
+            },
+            {
+              "text": "General Digital Protection Rule"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q27",
+          "text": "I dati biometrici sono considerati dati sensibili nel GDPR?",
+          "choices": [
+            {
+              "text": "Sì"
+            },
+            {
+              "text": "No"
+            },
+            {
+              "text": "Dipende"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q28",
+          "text": "Cosa è un attacco di presentazione (presentation attack)?",
+          "choices": [
+            {
+              "text": "Presentare un artefatto (es. dito finto) al sensore"
+            },
+            {
+              "text": "Presentare una slide"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q29",
+          "text": "Cosa è PAD (Presentation Attack Detection)?",
+          "choices": [
+            {
+              "text": "Rilevamento degli attacchi di presentazione"
+            },
+            {
+              "text": "Personal Access Device"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz3_q30",
+          "text": "Quale è un metodo software per PAD?",
+          "choices": [
+            {
+              "text": "Analisi della texture o del movimento (liveness)"
+            },
+            {
+              "text": "Sensore hardware aggiuntivo"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quiz4",
+      "title": "Domande Generali - Parte 4",
+      "questions": [
+        {
+          "id": "quiz4_q31",
+          "text": "Cosa è il morphing attack?",
+          "choices": [
+            {
+              "text": "Fondere due facce in una per ingannare il sistema"
+            },
+            {
+              "text": "Cambiare forma"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q32",
+          "text": "Quale documento è vulnerabile al morphing?",
+          "choices": [
+            {
+              "text": "Passaporto elettronico"
+            },
+            {
+              "text": "Carta d'identità cartacea"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q33",
+          "text": "Cosa è un deepfake?",
+          "choices": [
+            {
+              "text": "Video o audio generato da AI per simulare una persona"
+            },
+            {
+              "text": "Un falso profondo"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q34",
+          "text": "Quale tecnologia genera deepfake?",
+          "choices": [
+            {
+              "text": "GAN (Generative Adversarial Networks)"
+            },
+            {
+              "text": "SVM"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q35",
+          "text": "Cosa è il bias nei sistemi biometrici?",
+          "choices": [
+            {
+              "text": "Differenza di accuratezza tra gruppi demografici (es. etnia, genere)"
+            },
+            {
+              "text": "Errore casuale"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q36",
+          "text": "Cosa è il FERET database?",
+          "choices": [
+            {
+              "text": "Database storico per il riconoscimento facciale"
+            },
+            {
+              "text": "Database di furetti"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q37",
+          "text": "Cosa è LFW (Labeled Faces in the Wild)?",
+          "choices": [
+            {
+              "text": "Database per il riconoscimento facciale non vincolato"
+            },
+            {
+              "text": "Database di animali"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q38",
+          "text": "Quale è un'applicazione forense della biometria?",
+          "choices": [
+            {
+              "text": "Identificazione di sospetti da tracce sulla scena del crimine"
+            },
+            {
+              "text": "Controllo accessi aziendale"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q39",
+          "text": "Cosa è l'ABIS?",
+          "choices": [
+            {
+              "text": "Automated Biometric Identification System"
+            },
+            {
+              "text": "Automated Banking Information System"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q40",
+          "text": "Quale tratto biometrico è usato per i neonati?",
+          "choices": [
+            {
+              "text": "Impronte (difficile), orecchio, impronta del piede"
+            },
+            {
+              "text": "Firma"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q41",
+          "text": "Cosa è l'entropia di un tratto biometrico?",
+          "choices": [
+            {
+              "text": "Misura della quantità di informazione discriminante"
+            },
+            {
+              "text": "Calore emesso"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q42",
+          "text": "Quale tratto ha l'entropia più alta?",
+          "choices": [
+            {
+              "text": "Iride"
+            },
+            {
+              "text": "Faccia"
+            },
+            {
+              "text": "Voce"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q43",
+          "text": "Cosa è il d-prime?",
+          "choices": [
+            {
+              "text": "Indice di separabilità tra distribuzioni genuini e impostori"
+            },
+            {
+              "text": "Derivata prima"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q44",
+          "text": "Un d-prime alto indica:",
+          "choices": [
+            {
+              "text": "Migliore performance"
+            },
+            {
+              "text": "Peggiore performance"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q45",
+          "text": "Cosa è la curva CMC?",
+          "choices": [
+            {
+              "text": "Cumulative Match Characteristic (per identificazione)"
+            },
+            {
+              "text": "Curve of Matching Characteristics"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q46",
+          "text": "Cosa indica il Rank-1 recognition rate?",
+          "choices": [
+            {
+              "text": "Percentuale di volte in cui il match corretto è al primo posto"
+            },
+            {
+              "text": "Errore al primo tentativo"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q47",
+          "text": "Cosa è un sistema biometrico distribuito?",
+          "choices": [
+            {
+              "text": "Componenti su diversi nodi di rete"
+            },
+            {
+              "text": "Sistema regalato a tutti"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q48",
+          "text": "Cosa è il Match-on-Card?",
+          "choices": [
+            {
+              "text": "Matching eseguito direttamente sulla smart card"
+            },
+            {
+              "text": "Matching su carta"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q49",
+          "text": "Vantaggio del Match-on-Card?",
+          "choices": [
+            {
+              "text": "Privacy (template non lascia la carta)"
+            },
+            {
+              "text": "Velocità"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q50",
+          "text": "Cosa è l'ISO/IEC 30107?",
+          "choices": [
+            {
+              "text": "Standard per PAD (Presentation Attack Detection)"
+            },
+            {
+              "text": "Standard per il caffè"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q51",
+          "text": "L'applicazione da risolvere richiede la valutazione della distribuzione degli impostori in una regione dove la frequenza degli errori Ã¨ 10-7 (1 parte su 10 milioni). Nel contesto della discussione fatta in classe, quale delle seguenti opzioni Ã¨ considerata piÃ¹ corretta?",
+          "choices": [
+            {
+              "text": "Stimare la distribuzione usando l'approccio basato sul calcolo delle probabilitÃ  utilizzando volontari con N=100"
+            },
+            {
+              "text": "Stimare la distribuzione usando le curve presenti in letteratura per sistemi equivalenti o nel datasheet del produttore nella regione di funzionamento richiesta"
+            },
+            {
+              "text": "Stimare la distribuzione usando l'approccio basato sul calcolo delle probabilitÃ  utilizzando volontari con N=500"
+            },
+            {
+              "text": "Stimare la distribuzione usando l'approccio basato sulla inferenza statistica utilizzando volontari con N=500"
+            },
+            {
+              "text": "Stimare la distribuzione usando l'approccio basato sulla inferenza statistica utilizzando volontari con N=300"
+            }
+          ],
+          "correctIndexes": [
+            1
+          ]
+        },
+        {
+          "id": "quiz4_q52",
+          "text": "Quale affermazione è più corretta circa l'utilizzo dei dati sintetici?",
+          "choices": [
+            {
+              "text": "L'utilizzo dei dati sintetici non permette di risolvere problemi di privacy"
+            },
+            {
+              "text": "L'utilizzo dei dati sintetici è proibito dal GDPR"
+            },
+            {
+              "text": "L'utilizzo dei dati sintetici permette di allenare sistemi intelligenti con moli di dati non ottenibili con i metodi tradizionali ma non risolve il problema del bias e del bilanciamento del dataset"
+            },
+            {
+              "text": "L'utilizzo dei dati sintetici permette di allenare sistemi intelligenti con moli di dati non ottenibili con i metodi tradizionali e permette di mitigare il problema del bias e del bilanciamento del dataset"
+            }
+          ],
+          "correctIndexes": [
+            3
+          ]
+        },
+        {
+          "id": "quiz4_q53",
+          "text": "Quale affermazione sugli autoencoders è falsa?",
+          "choices": [
+            {
+              "text": "Non sono utilizzabili per la riduzione della dimensionalità"
+            },
+            {
+              "text": "Sono reti neurali"
+            },
+            {
+              "text": "Sono allenati in modo non supervisionato (o auto-supervisionato)"
+            },
+            {
+              "text": "Possono essere usati per la rimozione del rumore (denoising)"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q54",
+          "text": "I sistemi di intelligenza artificiale basati su Deep Learning soffrono del problema della 'Dimenticanza Catastrofica'?",
+          "choices": [
+            {
+              "text": "Vero, i sistemi di deep learning tendono a dimenticare le informazioni apprese in precedenza quando apprendono nuove informazioni"
+            },
+            {
+              "text": "Falso, i sistemi di deep learning hanno una memoria perfetta"
+            },
+            {
+              "text": "Vero, ma solo per le reti neurali ricorrenti"
+            },
+            {
+              "text": "Falso, è un problema solo dei sistemi simbolici"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q55",
+          "text": "Il problema del 'Vanishing Gradient' nelle reti neurali profonde è risolto principalmente da:",
+          "choices": [
+            {
+              "text": "L'uso di funzioni di attivazione come ReLU e connessioni residue (ResNet)"
+            },
+            {
+              "text": "Aumentare il numero di strati"
+            },
+            {
+              "text": "Diminuire il learning rate"
+            },
+            {
+              "text": "L'uso della funzione sigmoide in tutti gli strati"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q56",
+          "text": "Nel contesto del 'Continual Learning', cosa si intende per 'Plasticity-Stability Dilemma'?",
+          "choices": [
+            {
+              "text": "La difficoltà di bilanciare la capacità di apprendere nuove informazioni (plasticità) con la capacità di mantenere le conoscenze acquisite (stabilità)"
+            },
+            {
+              "text": "La difficoltà di scegliere tra un modello plastico e uno stabile"
+            },
+            {
+              "text": "Il problema di avere pesi troppo grandi o troppo piccoli"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q57",
+          "text": "Il clustering è un esempio di:",
+          "choices": [
+            {
+              "text": "Apprendimento non supervisionato"
+            },
+            {
+              "text": "Apprendimento supervisionato"
+            },
+            {
+              "text": "Apprendimento per rinforzo"
+            },
+            {
+              "text": "Regressione"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q58",
+          "text": "In una CNN, cosa fa l'operazione di Pooling?",
+          "choices": [
+            {
+              "text": "Riduce la dimensione spaziale della rappresentazione, diminuendo il numero di parametri e calcoli"
+            },
+            {
+              "text": "Aumenta la dimensione spaziale"
+            },
+            {
+              "text": "Aggiunge rumore all'immagine"
+            },
+            {
+              "text": "Classifica l'immagine"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q59",
+          "text": "Quale metrica è più appropriata per valutare un classificatore su un dataset sbilanciato?",
+          "choices": [
+            {
+              "text": "F1-Score o Area Under Precision-Recall Curve"
+            },
+            {
+              "text": "Accuracy"
+            },
+            {
+              "text": "MSE"
+            },
+            {
+              "text": "Tutte le precedenti sono ugualmente appropriate"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q60",
+          "text": "L'operazione di Data Augmentation serve a:",
+          "choices": [
+            {
+              "text": "Aumentare la diversità dei dati di training senza raccogliere nuovi dati, per ridurre l'overfitting"
+            },
+            {
+              "text": "Ridurre la dimensione del dataset"
+            },
+            {
+              "text": "Pulire il dataset dai dati rumorosi"
+            },
+            {
+              "text": "Testare il modello"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q61",
+          "text": "I 'Adversarial Attacks' sono:",
+          "choices": [
+            {
+              "text": "Input appositamente modificati per ingannare un modello di machine learning"
+            },
+            {
+              "text": "Attacchi fisici ai server"
+            },
+            {
+              "text": "Attacchi di phishing"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q62",
+          "text": "Nel Deep Learning, cosa si intende per 'Transfer Learning'?",
+          "choices": [
+            {
+              "text": "Utilizzare un modello pre-allenato su un task e riadattarlo per un nuovo task simile"
+            },
+            {
+              "text": "Trasferire i dati da un server all'altro"
+            },
+            {
+              "text": "Trasferire l'apprendimento da un umano a una macchina"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q63",
+          "text": "La 'Curse of Dimensionality' si riferisce a:",
+          "choices": [
+            {
+              "text": "Problemi che sorgono quando si analizzano e organizzano dati in spazi ad alta dimensione (sparsità dei dati, difficoltà di distanza, ecc.)"
+            },
+            {
+              "text": "Avere troppe poche dimensioni nei dati"
+            },
+            {
+              "text": "Una maledizione voodoo sui dati"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q64",
+          "text": "I 'Generative Adversarial Networks' (GAN) sono composti da:",
+          "choices": [
+            {
+              "text": "Un generatore e un discriminatore"
+            },
+            {
+              "text": "Due generatori"
+            },
+            {
+              "text": "Due discriminatori"
+            },
+            {
+              "text": "Un solo encoder"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q65",
+          "text": "Il PCA (Principal Component Analysis) è una tecnica per:",
+          "choices": [
+            {
+              "text": "Riduzione della dimensionalità"
+            },
+            {
+              "text": "Classificazione"
+            },
+            {
+              "text": "Clustering"
+            },
+            {
+              "text": "Data Augmentation"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q66",
+          "text": "Per gestire il problema dei 'Missing Values' in un dataset, è possibile:",
+          "choices": [
+            {
+              "text": "Tutte le precedenti (Imputazione con media/mediana, Eliminazione righe/colonne, Uso di algoritmi che gestiscono i missing values)"
+            },
+            {
+              "text": "Imputazione con media/mediana"
+            },
+            {
+              "text": "Eliminazione delle righe o colonne con valori mancanti"
+            },
+            {
+              "text": "Uso di algoritmi che gestiscono nativamente i missing values"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q67",
+          "text": "Le tecniche di 'Explainable AI' (XAI) mirano a:",
+          "choices": [
+            {
+              "text": "Rendere i risultati e il funzionamento dei sistemi di IA comprensibili agli esseri umani"
+            },
+            {
+              "text": "Aumentare l'accuratezza a discapito della comprensibilità"
+            },
+            {
+              "text": "Nascondere il funzionamento dell'IA"
+            },
+            {
+              "text": "Creare IA che spiegano cose agli umani"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q68",
+          "text": "Nel contesto della sicurezza biometrica, il termine 'Zero-Effort Impostor' si riferisce a:",
+          "choices": [
+            {
+              "text": "Un impostore che usa le proprie caratteristiche biometriche per tentare l'accesso (senza cercare di imitare attivamente la vittima)"
+            },
+            {
+              "text": "Un impostore che usa una foto della vittima"
+            },
+            {
+              "text": "Un impostore che usa un dito di gomma"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q69",
+          "text": "Un attacco di 'Replay Attack' consiste nel:",
+          "choices": [
+            {
+              "text": "Intercettare e rispedire dati biometrici validi precedentemente acquisiti"
+            },
+            {
+              "text": "Creare un falso biometrico sintetico"
+            },
+            {
+              "text": "Modificare il database dei template"
+            },
+            {
+              "text": "Attaccare il sensore fisicamente"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q70",
+          "text": "Il 'Curriculum Learning' è una strategia di addestramento che prevede:",
+          "choices": [
+            {
+              "text": "Presentare al modello esempi in ordine di difficoltà crescente (dal più facile al più difficile)"
+            },
+            {
+              "text": "Presentare esempi in ordine casuale"
+            },
+            {
+              "text": "Presentare solo gli esempi difficili"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q71",
+          "text": "L'overfitting si verifica quando:",
+          "choices": [
+            {
+              "text": "Il modello apprende il rumore e i dettagli specifici del training set a discapito della generalizzazione"
+            },
+            {
+              "text": "Il modello è troppo semplice per catturare la struttura dei dati"
+            },
+            {
+              "text": "Il modello ha prestazioni scarse sia sul training che sul test set"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q72",
+          "text": "La regolarizzazione (es. L1, L2, Dropout) è usata per:",
+          "choices": [
+            {
+              "text": "Prevenire l'overfitting"
+            },
+            {
+              "text": "Aumentare l'overfitting"
+            },
+            {
+              "text": "Velocizzare il training"
+            },
+            {
+              "text": "Ridurre il numero di dati necessari"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q73",
+          "text": "Nel contesto dei sistemi biometrici, i 'Template' protetti mirano a garantire:",
+          "choices": [
+            {
+              "text": "Irreversibilità (impossibile risalire al dato originale) e Unlinkability (impossibile collegare template diversi dello stesso utente)"
+            },
+            {
+              "text": "Solo la compressione dei dati"
+            },
+            {
+              "text": "Solo la velocità di matching"
+            },
+            {
+              "text": "Nessuna delle precedenti"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        },
+        {
+          "id": "quiz4_q74",
+          "text": "Gli Autoencoders sono soggetti al problema del 'Vanishing Gradient'?",
+          "choices": [
+            {
+              "text": "Falso"
+            },
+            {
+              "text": "Vero, se sono profondi (stacked autoencoders) e usano certe funzioni di attivazione"
+            },
+            {
+              "text": "Vero, sempre"
+            },
+            {
+              "text": "Vero in quanto gli autoencoders superano questo problema"
+            }
+          ],
+          "correctIndexes": [
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}
