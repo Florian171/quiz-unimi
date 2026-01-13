@@ -386,7 +386,7 @@
             { "text": "Can be used under specific circumstances" },
             { "text": "Since all state of the art models tend to be quite large and un-explainable, it is current good practice to adopt black box approach since you get the best models" }
           ],
-          "correctIndexes": [0]
+          "correctIndexes": [1]
         },
         {
           "id": "quiz2_q37",
@@ -644,7 +644,7 @@
             { "text": "cos(A,B) = cos(alpha*A, B) = cos(A, alpha*B)" },
             { "text": "alpha * cos(A,B) = cos(alpha*A, alpha*B)" }
           ],
-          "correctIndexes": [0]
+          "correctIndexes": [1]
         },
         {
           "id": "quiz2_q60",
@@ -718,7 +718,7 @@
             { "text": "Clipping" },
             { "text": "A different type of normalization" }
           ],
-          "correctIndexes": [1]
+          "correctIndexes": [2]
         },
         {
           "id": "quiz3_q66",
@@ -928,7 +928,7 @@
             { "text": "Segmentation, Measurement, Classification with trained deep models" },
             { "text": "Segmentation, Measurement, Classification" }
           ],
-          "correctIndexes": [2]
+          "correctIndexes": [3]
         },
         {
           "id": "quiz3_q84",
@@ -1339,7 +1339,7 @@
             { "text": "Increases the weight of the loss for samples from rare classes" },
             { "text": "Ignore rare cases completely" }
           ],
-          "correctIndexes": [2]
+          "correctIndexes": [3]
         },
         {
           "id": "quiz4_q118",
